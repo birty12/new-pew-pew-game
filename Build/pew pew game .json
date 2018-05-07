@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "pew pew game .data.unityweb",
+"asmCodeUrl": "pew pew game .asm.code.unityweb",
+"asmMemoryUrl": "pew pew game .asm.memory.unityweb",
+"asmFrameworkUrl": "pew pew game .asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
